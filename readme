@@ -1,0 +1,4 @@
+This was a Treehouse project that used Flickr's API.  Ajax is used
+to retrieve the data that matches the search term
+ from the API in JSON format.  Then each 
+JSON object is iterated over and displayed on the page.
